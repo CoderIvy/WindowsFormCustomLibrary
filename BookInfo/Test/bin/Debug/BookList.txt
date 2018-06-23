@@ -1,0 +1,50 @@
+01,Philosophers,Garry Wills,Saint Augustine,12.99
+02,Fiction,Graham Greene,The Power and the Glory,5.99
+03,Mystery,A. J Finn,The Woman in the Window,8.88
+04,Business,Jim Brown,The Basics Explained in Simple Terms,10.88
+05,Nonfiction,Jon Chase,The Science of Harry Potter,5.55
+06,Comics,Cullen Bunn,Spider-Man Season One,15.99
+07,Romance,Melissa Ostrom,The Beloved Wild,6.99
+08,Science Fiction,Tessa Gratton,The Queens of Innis Lear,5.99
+09,Kids,Jason Matthews,Red Sparrow,4.99
+10,Accounting,Amanda Carlson,Danger's Hunt,3.88
+11,Philosophers,Sarah Bakewell,How to Live,9.99
+12,Fiction,Holly Ringland,The Lost Flowers of Alice Hart,12.35
+13,Mystery,y J.R. Thorn,Siren's Song,4.77
+14,Business,J.T. Nicholas,SINdicate,3.99
+15,Nonfiction,Agnès Poirier,Left Bank,0.99
+16,Comics,Cullen Bunn,Harrow County Volume 1: Countless Haints,9.99
+17,Romance,Cordelia Jensen,The Way The Light Bends,10.99
+18,Science Fiction,Steve Berry,The Bishop's Pawn,5.69
+19,Kids,Shalini Boland,The Secret Mother,3.99
+20,Accounting,José Pérez Chávez,Guía Práctica Fiscal. ISR,5.99
+21,Philosophers,Sarah Bakewell,At the Existentialist Café,13.99
+22,Fiction,Jack Kerouac,On the Road,1.99
+23,Mystery,Sheryl Browne,The Babysitter,9.99
+24,Business,Chris Voss & Tahl Raz,Biography of an Idea,6.86
+25,Nonfiction,Nassim Nicholas Taleb,Skin in the Game,5.55
+26,Comics,Daniel Way,Deadpool Vol. 3: X Marks the Spot,6.99
+27,Romance,Kim Savage,In Her Skin,10.99
+28,Science Fiction,Elizabeth Bear,Stone Mad,7.88
+29,Kids,Holly Ringland,The Lost Flowers of Alice Hart,13.99
+30,Accounting,Speedy Publishing,Living Guide For The Minimalism,11.99
+31,Philosophers,Henry David Thoreau,Walden,2.99
+32,Fiction,John Steinbeck,Cannery Row,6.09
+33,Mystery,Jane Harper,Force of Nature,7.89
+34,Business,Edward L. Bernays,Crystallizing Public Opinion,11.69
+35,Nonfiction,Andrew Loomis,How to Win at Shopping,8.68
+36,Comics,Cullen Bunn,Deadpool Kills the Marvel Universe,9.88
+37,Romance,Gayle Forman,I Have Lost My Way,9.09
+38,Science Fiction,Tim Lebbon,Relics - The Folded Land,12.99
+39,Kids,Jenny Ackland,Little Gods,18.62
+40,Accounting,Speedy Publishing,DSM-5 Pocket Guide (Speedy Study Guides),2.99
+41,Biography,Randy Roberts,A Season in the Sun,6.99
+42,Fiction,John Steinbeck,Alone with Mr. Darcy,4.69
+43,Mystery,Caroline Kepnes,You,6.36
+44,Business,Dale Carnegie,How to Win Friends and Influence People,7.88
+45,Nonfiction,Andrew Loom,Drawing the head & hands,9.66
+46,Comics,Cullen Bunn,Army Of Darkness: Ash In Space!,12.99
+47,Romance,Rosalyn Eves,Lost Crow Conspiracy,13.99
+48,Science Fiction,Elicia Hyder,The Sacrifice,14.99
+49,Kids,Patricia Gibney,No Safe Place,8.89
+50,Accounting,David Perera,The Inside Guide to the Federal IT Market,5.99

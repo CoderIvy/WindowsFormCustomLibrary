@@ -1,0 +1,16 @@
+C:\Temp\BookInfo\BookInfo\bin\Debug\BookInfo.dll
+C:\Temp\BookInfo\BookInfo\bin\Debug\BookInfo.pdb
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csprojResolveAssemblyReference.cache
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.BookInfoLib.resources
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csproj.GenerateResource.cache
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csproj.CoreCompileInputs.cache
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.dll
+C:\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.pdb
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\bin\Debug\BookInfo.dll
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\bin\Debug\BookInfo.pdb
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csprojAssemblyReference.cache
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.BookInfoLib.resources
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csproj.GenerateResource.cache
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.csproj.CoreCompileInputs.cache
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.dll
+C:\Users\chenl85\Downloads\Assignment1A\Temp\BookInfo\BookInfo\obj\Debug\BookInfo.pdb
